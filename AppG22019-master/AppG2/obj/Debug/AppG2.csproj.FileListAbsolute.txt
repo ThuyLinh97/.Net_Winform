@@ -1,0 +1,12 @@
+F:\NAM4-HK1\.Net_T.Dũng_T6\AppG22019-master\AppG2\bin\Debug\AppG2.exe.config
+F:\NAM4-HK1\.Net_T.Dũng_T6\AppG22019-master\AppG2\bin\Debug\AppG2.exe
+F:\NAM4-HK1\.Net_T.Dũng_T6\AppG22019-master\AppG2\bin\Debug\AppG2.pdb
+F:\NAM4-HK1\.Net_T.Dũng_T6\AppG22019-master\AppG2\obj\Debug\AppG2.csprojAssemblyReference.cache
+F:\NAM4-HK1\.Net_T.Dũng_T6\AppG22019-master\AppG2\obj\Debug\AppG2.View.frmThongTinSinhVien.resources
+F:\NAM4-HK1\.Net_T.Dũng_T6\AppG22019-master\AppG2\obj\Debug\AppG2.frmTinhToanCoBan.resources
+F:\NAM4-HK1\.Net_T.Dũng_T6\AppG22019-master\AppG2\obj\Debug\AppG2.Properties.Resources.resources
+F:\NAM4-HK1\.Net_T.Dũng_T6\AppG22019-master\AppG2\obj\Debug\AppG2.csproj.GenerateResource.cache
+F:\NAM4-HK1\.Net_T.Dũng_T6\AppG22019-master\AppG2\obj\Debug\AppG2.csproj.CoreCompileInputs.cache
+F:\NAM4-HK1\.Net_T.Dũng_T6\AppG22019-master\AppG2\obj\Debug\AppG2.exe
+F:\NAM4-HK1\.Net_T.Dũng_T6\AppG22019-master\AppG2\obj\Debug\AppG2.pdb
+F:\NAM4-HK1\.Net_T.Dũng_T6\AppG22019-master\AppG2\bin\Debug\Data\student.txt
