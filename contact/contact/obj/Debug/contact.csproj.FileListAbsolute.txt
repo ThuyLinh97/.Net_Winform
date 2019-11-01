@@ -1,0 +1,21 @@
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\contact\contact\bin\Debug\contact.exe.config
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\contact\contact\bin\Debug\contact.exe
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\contact\contact\bin\Debug\contact.pdb
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.csprojResolveAssemblyReference.cache
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.Properties.Resources.resources
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.csproj.GenerateResource.Cache
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.exe
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.pdb
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.frmContact.resources
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\contact\contact\bin\Debug\Data\dataContact.txt
+F:\NAM4-HK1\.Net_T.Dũng_T6\contact\contact\bin\Debug\Data\dataContact.txt
+F:\NAM4-HK1\.Net_T.Dũng_T6\contact\contact\bin\Debug\contact.exe.config
+F:\NAM4-HK1\.Net_T.Dũng_T6\contact\contact\bin\Debug\contact.exe
+F:\NAM4-HK1\.Net_T.Dũng_T6\contact\contact\bin\Debug\contact.pdb
+F:\NAM4-HK1\.Net_T.Dũng_T6\contact\contact\obj\Debug\contact.csprojAssemblyReference.cache
+F:\NAM4-HK1\.Net_T.Dũng_T6\contact\contact\obj\Debug\contact.frmContact.resources
+F:\NAM4-HK1\.Net_T.Dũng_T6\contact\contact\obj\Debug\contact.Properties.Resources.resources
+F:\NAM4-HK1\.Net_T.Dũng_T6\contact\contact\obj\Debug\contact.csproj.GenerateResource.cache
+F:\NAM4-HK1\.Net_T.Dũng_T6\contact\contact\obj\Debug\contact.csproj.CoreCompileInputs.cache
+F:\NAM4-HK1\.Net_T.Dũng_T6\contact\contact\obj\Debug\contact.exe
+F:\NAM4-HK1\.Net_T.Dũng_T6\contact\contact\obj\Debug\contact.pdb
